@@ -114,7 +114,6 @@ A implementação do projeto se deu por 5 sprints:
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?&style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?&style=for-the-badge&logo=Sequelize&logoColor=white)](https://sequelize.org/docs/v6/getting-started/)
 [![JWT](https://img.shields.io/badge/JWT-black?&style=for-the-badge&logo=JSON%20web%20tokens)](https://jwt.io/introduction)
-[![Heroku](https://img.shields.io/badge/Heroku-430098?&style=for-the-badge&logo=heroku&logoColor=white)](https://devcenter.heroku.com/)
 [![Git](https://img.shields.io/badge/GIT-E44C30?&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
