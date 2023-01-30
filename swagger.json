@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://mentora-me.herokuapp.com",
+      "url": "https://mentora-me.cyclic.app",
       "variables": {}
     },
     {
